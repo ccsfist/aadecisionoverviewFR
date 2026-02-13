@@ -1,0 +1,45 @@
+site_name: Décisions d’Action Anticipatoire
+theme:
+  name: material
+  logo: ""
+
+  features:
+    #- navigation.tabs # décommentez ceci pour placer la navigation en haut
+    - navigation.sections
+    - toc.integrate
+    #- navigation.footer
+
+nav:
+- 'index.md'
+- 'disastermandate.md' # ceci est l’introduction et le tableau IPC
+- 'probabilityanswers.md'
+- 'aahat.md'
+- 'aahatanswers.md'
+- 'budgets.md'
+- 'budgetanswers.md'
+- 'forecast.md'
+- 'forecastanswers.md'
+- 'forecasterror.md'
+- 'forecasterroranswers.md'
+- 'actiondesign.md'
+- 'actiondesignanswers.md'
+- 'designtools.md'
+- 'operation.md'
+- 'finished.md'
+
+plugins:
+  - search
+  - macros
+
+extra:
+  kobo_form_id: iusvpk4H
+  analytics:
+    provider: google
+    property: G-YM4PVFJE0F
+
+extra_javascript:
+  - javascripts/slide_manager.js
+  - javascripts/kobo_loader.js # ne devrait plus être nécessaire maintenant que slide-manager.js existe
+
+extra_css:
+  - stylesheets/styles.css
