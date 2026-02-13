@@ -3,7 +3,7 @@
 <img src="groupanalyzing.jpg" alt="groupanalyzing.jpg" style="width:500px;">
 
 Dernière mise à jour :
-Thu Feb 12 17:46:00 EST 2026
+vendredi 13 février 2026 à 08 h 50 (EST)
 
 Dans cet exercice, vous allez imaginer que vous êtes un décideur face à une catastrophe,
 réfléchissant à la possibilité d’utiliser des prévisions pour entreprendre des actions de préparation.

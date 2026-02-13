@@ -34,7 +34,7 @@ Voici les données disponibles sur la sécurité alimentaire.
 
 ### Règle 2. Sécheresse modérée : vous devez agir si plus de 40 000 personnes sont en insécurité alimentaire.
 
-Pour commencer, voici quelques questions pratiques un peu fastidieuses avant de passer aux questions plus complexes qui feront appel à votre jugement professionnel ainsi qu’à vos mandats et responsabilités officielles.
+Pour commencer, voici quelques questions pratiques un peu fastidieuses avant de passer aux questions plus complexes, qui feront appel à votre jugement professionnel ainsi qu’à vos mandats et responsabilités officielles.
 
 Examinez le tableau IPC et vos règles d’intervention.
 Identifiez les années qui dépassent ou non les seuils d’action, puis répondez aux questions suivantes.

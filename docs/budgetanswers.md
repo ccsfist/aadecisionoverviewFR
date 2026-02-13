@@ -4,7 +4,7 @@
 
 - L’acteur peut financer 1,5 actions, soit une fréquence de 30 %.
 
-- Non, le financeur ne peut pas financer le taux d’actions de 40 % que l’acteur souhaiterait réaliser ; il ne peut financer que 30 %.
+- Non, le bailleur de fonds ne peut pas financer le taux d’actions de 40 % que l’acteur souhaiterait réaliser ; il ne peut financer que 30 %.
 
 - Le taux négocié dépend des joueurs de la simulation.
 

@@ -12,9 +12,9 @@ Jouons maintenant deux rôles.
 
 - Chaque intervention coûte **1 000 000 $ par année d’activation.**
 
-2) Le financeur = l’agence budgétaire du gouvernement ou un bailleur externe
+2) Le bailleur de fonds = l’agence budgétaire du gouvernement ou un bailleur externe
 
-- Le financeur dispose d’un plafond budgétaire de 1,5 million de dollars sur 5 ans.
+- Le bailleur de fonds dispose d’un plafond budgétaire de 1,5 million de dollars sur 5 ans.
 
 Mettez‑vous dans ces rôles et répondez aux questions ci‑dessous…
 
