@@ -27,5 +27,5 @@ Examinez le tableau des seuils et des actions, et souvenez‑vous des discussion
 
 Réfléchissez maintenant aux types de décisions dont vous êtes prêt à assumer la responsabilité, puis répondez aux questions ci‑dessous :
 
-<div id="slide-config" data-type="kobo" data-next="../actiondesignanswers/" data-kobo-id="kAVxpdze" data-width="100%"> </div>
+<div id="slide-config" data-type="kobo" data-next="../actiondesignanswers/" data-kobo-id="Pe4NrbVS" data-width="100%"> </div>
 

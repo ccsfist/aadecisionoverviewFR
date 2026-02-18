@@ -18,6 +18,6 @@ Jouons maintenant deux rôles.
 
 Mettez‑vous dans ces rôles et répondez aux questions ci‑dessous…
 
-<div id="slide-config" data-type="kobo" data-next="../budgetanswers/" data-kobo-id="hACTMCaZ" data-width="100%"> </div>
+<div id="slide-config" data-type="kobo" data-next="../budgetanswers/" data-kobo-id="Q292CEYb" data-width="100%"> </div>
 
 

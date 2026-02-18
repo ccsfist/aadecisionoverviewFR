@@ -10,5 +10,5 @@ La colonne « prévision » indique la probabilité de sécheresse : plus le
 Nous pouvons inverser le raisonnement utilisé pour décider d’agir et voir comment exploiter la prévision.
 Les questions ci‑dessous vous guideront à travers ce processus.
 
-<div id="slide-config" data-type="kobo" data-next="../forecastanswers/" data-kobo-id="cD8vUEdF" data-width="100%"> </div>
+<div id="slide-config" data-type="kobo" data-next="../forecastanswers/" data-kobo-id="DlMtmwl9" data-width="100%"> </div>
 

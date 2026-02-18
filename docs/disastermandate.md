@@ -39,5 +39,5 @@ Pour commencer, voici quelques questions pratiques un peu fastidieuses avant de 
 Examinez le tableau IPC et vos règles d’intervention.
 Identifiez les années qui dépassent ou non les seuils d’action, puis répondez aux questions suivantes.
 
-<div id="slide-config" data-type="kobo" data-next="../probabilityanswers/" data-kobo-id="0Wz0B9Wl" data-width="100%"> </div>
+<div id="slide-config" data-type="kobo" data-next="../probabilityanswers/" data-kobo-id="5WEgpty2" data-width="100%"> </div>
 

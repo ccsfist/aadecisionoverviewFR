@@ -11,5 +11,5 @@ Ce tableau n’est qu’un extrait d’un tableau beaucoup plus long que vous ve
 Les pires années — de la plus grave à la cinquième — ne se situent pas toutes entre 2015 et 2019.
 Ainsi, dans ce tableau, la pire année commence avec le rang 6.
 
-<div id="slide-config" data-type="kobo" data-next="../forecasterroranswers/" data-kobo-id="tqCQbw3Z" data-width="100%"> </div>
+<div id="slide-config" data-type="kobo" data-next="../forecasterroranswers/" data-kobo-id="AoH7Skxh" data-width="100%"> </div>
 
