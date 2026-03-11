@@ -8,7 +8,7 @@ Jouons maintenant deux rôles.
 
 1)  L’Acteur = le gestionnaire des catastrophes
 
-- L’Acteur doit appliquer la Règle 2, ce qui signifie intervenir 20 % des années.
+- L’Acteur doit appliquer la Règle 2, ce qui signifie intervenir 40 % des années.
 
 - Chaque intervention coûte **1 000 000 $ par année d’activation.**
 
