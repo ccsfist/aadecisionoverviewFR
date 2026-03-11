@@ -8,12 +8,16 @@ Ci‑dessous se trouve un exemple d’outil permettant d’évaluer une prévisi
 Il s’agit d’un tableau de bord de conception utilisé dans de vrais projets, verrouillé pour garantir la cohérence lors des sessions de formation.
 
 Pour illustrer certains des points que nous avons abordés :
-	- Voyez‑vous des périodes de 5 ans avec moins de 2 déclenchements, ou plus de 2 déclenchements ?
-	- Déplacez le curseur « Frequency of trigger events » pour tester différentes fréquences et observer 			comment le logiciel calcule les niveaux d’action correspondants.
+
+- Voyez‑vous des périodes de 5 ans avec moins de 2 déclenchements, ou plus de 2 déclenchements ?
+
+- Déplacez le curseur « Frequency of trigger events » pour tester différentes fréquences et observer 			comment le logiciel calcule les niveaux d’action correspondants.
 
 Pour plus de documentation sur le fonctionnement de cet outil, consultez :
-	- Français :   https://fist.iri.columbia.edu/publications/docs/WA_AA_General_Material_Update/
-	- Anglais: https://fist.iri.columbia.edu/publications/docs/Djibouti_AA_Tool_Guide/
+
+- Français :   https://fist.iri.columbia.edu/publications/docs/WA_AA_General_Material_Update/
+
+- Anglais: https://fist.iri.columbia.edu/publications/docs/Djibouti_AA_Tool_Guide/
 
 
 Cet outil fait partie du processus de conception des actions et des seuils de déclenchement. Une fois ces éléments choisis, ils sont validés et figés avant le début des prévisions pour l’année à venir.

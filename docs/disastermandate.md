@@ -7,8 +7,10 @@
 **Votre mandat est de prendre des mesures pour réduire les impacts des sécheresses sur les populations.**
 
 Certaines des actions dans votre portefeuille sont :
-	- Distribution de nourriture
-	- Distribution de semences tolérantes à la sécheresse
+
+- Distribution de nourriture
+
+- Distribution de semences tolérantes à la sécheresse
 
 La saison agricole est la période où la majorité de la nourriture consommée par les populations est produite. Elle correspond approximativement à juillet, août et septembre (JAS).
 
