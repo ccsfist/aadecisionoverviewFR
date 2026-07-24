@@ -13,6 +13,8 @@ Pour illustrer certains des points que nous avons abordés :
 
 - Déplacez le curseur « Frequency of trigger events » pour tester différentes fréquences et observer 			comment le logiciel calcule les niveaux d’action correspondants.
 
+Pour une discussion sur des sujets avancés concernant les différences entre les décennies, consultez ce formulaire [Dix Ans](https://ee.kobotoolbox.org/x/NIPatgOp).
+
 Pour plus de documentation sur le fonctionnement de cet outil, consultez :
 
 - Français :   https://fist.iri.columbia.edu/publications/docs/WA_AA_General_Material_Update/
